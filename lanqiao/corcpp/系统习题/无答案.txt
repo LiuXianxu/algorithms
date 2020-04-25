@@ -1,0 +1,40 @@
+
+算法训练
+ALGO-7	逆序对        无java
+ALGO-66	字符串编辑    无c++,c
+ALGO-59	快速排序      无java,c
+ALGO-52	排列问题      无c
+ALGO-40	会议中心      无java,c
+ALGO-44	采油区域      无java,c
+ALGO-25	Car的旅行路线  无java,c
+
+算法提高：
+ADV-5  最小方差生成树      无c++,c,java
+ADV-4  道路和航路          无java,c
+ADV-3  金属采集             无c
+ADV-1  两条直线         无java,c
+ADV-117 进制转换       无c++,java
+ADV-116  c++_ch06_02   无java,c
+ADV-115  c++_ch03_02 无java,c
+ADV-114  c++_ch02_03  无java
+ADV-113  c++_ch02_02  无java
+ADV-111	Quadratic Equation  无java
+ADV-108  分数统计  无c++,c,java
+ADV-107  猜测排名   无c,java
+ADV-106  欧拉函数   无c++,c,java
+ADV-104	打水问题  无java
+ADV-93  任意年月日历输出  无c++
+ADV-67  传染病控制 无java,c
+ADV-14 卡勒沃夫之弱水路三千(提高型) 无java  
+ADV-10  立方体截断问题  无c++,c,java
+ADV-8  冒泡排序计数  无java,c
+
+历届试题
+PREV-30 波动数列 无java
+PREV-29 斐波那契  无java,c
+PREV-25 城市建设  无java,c
+PREV-24 邮局 无java,c
+PREV-20 公式求值 无c
+PREV-18 车轮轴迹 无java,c
+PREV-17 约数倍数选卡片 无java,c
+PREV-16  农场阳光  无c++,c,java
